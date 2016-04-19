@@ -12,10 +12,7 @@ Same dataset is also available at https://bidgely-drupal.s3.amazonaws.com/resour
 Steps:
 1. In order to run the DI_project.py, edit the data file and add the following header to it. 
 This header will make sure that the dataframe is read by the script under appropriate names.
-
 time,power
-
 2. Keep the data, the .py file in the same folder and run it on python. Alg2 is the algorithm 
 that is proposed.
-
 3. Have fun :-)
